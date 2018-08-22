@@ -1,29 +1,24 @@
-# Rails Record Collection
+# README
 
-## Description
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Create a new Rails application to keep track of all the music albums you own. You can choose what fields each album should have, but you should have at least these three:
+Things you may want to cover:
 
-- Title
-- Artist Name
-- Year Released
+* Ruby version
 
-Your Rails app should allow you to do the following:
+* System dependencies
 
-- See all albums
-- Make a new album
-- See an existing album
-- Edit an existing album
-- Delete an existing album
+* Configuration
 
-Try to do this assignment without generating scaffolds! You can use other rails generators, however.
+* Database creation
 
-### Extra Challenge
+* Database initialization
 
-Use the `bootstrap-rubygem` gem to include Bootstrap in your Rails app and use it for styling.
+* How to run the test suite
 
-## Resources
+* Services (job queues, cache servers, search engines, etc.)
 
-- [SQLite Browser](http://sqlitebrowser.org/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-- [bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem)
+* Deployment instructions
+
+* ...
